@@ -10,4 +10,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DwarfAmil&langs_count=8&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DwarfAmil&show_icons=true&theme=merko)
   
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,powershell,html,css,md,mysql,c,cs,kotlin,py,arduino,unity&theme=dark" alt="Skills"/>
+</p>
+  
 </div>
